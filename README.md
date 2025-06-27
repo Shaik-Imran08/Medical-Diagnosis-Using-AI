@@ -8,7 +8,7 @@ This app predicts 5 diseases using ML models:
 - Hypo-Thyroid
 
 ## 🚀 Hosted on Streamlit
-[Click to Run the App](https://your-username.streamlit.app)
+[Click to Run the App](https://medical-diagnosis-using-ai-43ruyveuykzjgudq2d8kdc.streamlit.app/)
 
 ## 🛠 Built With
 - Python
